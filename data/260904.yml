@@ -1,11 +1,13 @@
 about:
-  description: The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
+  description:
+  |
+    The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
   license: BSD-3-Clause
   homepage: https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html
   head: 81c677d
   archived: false
   latestVersion: v2.72.0
-  collectedAt: 2026-09-04T04:58:34Z
+  collectedAt: 2026-09-04T19:56:04Z
 timeline:
   created: 2018-10-04
   lastCommit: 2026-09-03
@@ -16,8 +18,8 @@ popularity:
   fork: 1831
   release: 94
   contributor: 147
-  pullRequest: 516
-  issue: 4161
+  pullRequest: 4538
+  issue: 4162
 language:
   Python: 4086241
   Shell: 1443139
@@ -26,11 +28,19 @@ language:
   Java: 78330
   Go Template: 23040
   Dockerfile: 1610
-totalLine: 6925683
+totalBytes: 6925683
 recent:
   last30d:
     since: 2026-08-05
     release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 2
     mergedPR: 0
     openPR: 0
     closedIssue: 0
@@ -60,3 +70,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 24
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 94
+  mergedPR: 4021
+  openPR: 113
+  closedIssue: 3383
+  openIssue: 779
+  commit: 3850
+---
+---
+
