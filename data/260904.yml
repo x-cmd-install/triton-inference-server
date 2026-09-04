@@ -7,13 +7,13 @@ about:
   head: 81c677d
   archived: false
   latestVersion: v2.72.0
-  collectedAt: 2026-09-04T19:56:04Z
+  collectedAt: 2026-09-04T20:45:44Z
 timeline:
   created: 2018-10-04
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 10961
+  star: 10962
   watcher: 145
   fork: 1831
   release: 94
@@ -86,5 +86,123 @@ total:
   openIssue: 779
   commit: 3850
 ---
+path: /home/runner/.x-repo/github.com/NVIDIA/triton-inference-server
+collectedAt: 2026-09-04T20:45:49Z
+loc:
+  Python:
+    code: 77010
+    comments: 16513
+    blanks: 11965
+    files: 404
+  Sh:
+    code: 27394
+    comments: 7066
+    blanks: 5387
+    files: 181
+  Cpp:
+    code: 22152
+    comments: 2992
+    blanks: 3048
+    files: 32
+  Json:
+    code: 4011
+    comments: 0
+    blanks: 4
+    files: 34
+  CHeader:
+    code: 3611
+    comments: 1369
+    blanks: 672
+    files: 19
+  Java:
+    code: 1787
+    comments: 190
+    blanks: 264
+    files: 3
+  CMake:
+    code: 1527
+    comments: 488
+    blanks: 299
+    files: 13
+  Yaml:
+    code: 1447
+    comments: 1084
+    blanks: 112
+    files: 40
+  ReStructuredText:
+    code: 729
+    comments: 0
+    blanks: 77
+    files: 17
+  Bash:
+    code: 696
+    comments: 157
+    blanks: 93
+    files: 3
+  Pan:
+    code: 345
+    comments: 153
+    blanks: 41
+    files: 6
+  Css:
+    code: 253
+    comments: 51
+    blanks: 15
+    files: 1
+  Autoconf:
+    code: 63
+    comments: 175
+    blanks: 35
+    files: 7
+  Bitbake:
+    code: 49
+    comments: 83
+    blanks: 17
+    files: 3
+  Makefile:
+    code: 27
+    comments: 62
+    blanks: 16
+    files: 2
+  Toml:
+    code: 17
+    comments: 31
+    blanks: 3
+    files: 1
+  JavaScript:
+    code: 6
+    comments: 29
+    blanks: 1
+    files: 1
+  Html:
+    code: 5
+    comments: 27
+    blanks: 0
+    files: 1
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 3
+  Dockerfile:
+    code: 1
+    comments: 25
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13950
+    blanks: 3325
+    files: 82
+  Text:
+    code: 0
+    comments: 6152
+    blanks: 7
+    files: 16
+total:
+  code: 142113
+  comments: 50765
+  blanks: 25490
+  files: 870
 ---
 
