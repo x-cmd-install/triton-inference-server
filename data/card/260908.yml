@@ -5,13 +5,13 @@ about:
   head: 81c677d
   archived: false
   latestVersion: "v2.72.0"
-  collectedAt: 2026-09-08T01:52:30Z
+  collectedAt: 2026-09-08T04:38:18Z
 timeline:
   created: 2018-10-04
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 10966
+  star: 10965
   watcher: 146
   fork: 1833
   release: 94
@@ -85,7 +85,7 @@ total:
   commit: 3850
 ---
 path: /home/runner/.x-repo/github.com/NVIDIA/triton-inference-server
-collectedAt: 2026-09-08T01:52:45Z
+collectedAt: 2026-09-08T04:38:26Z
 loc:
   Python:
     code: 77010
