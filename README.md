@@ -7,7 +7,7 @@ The Triton Inference Server provides an optimized cloud and edge inferencing sol
 - **Latest release**: `v2.72.0` (2026-08-31)
 - **Last commit**: 2026-09-09
 - **License**: BSD-3-Clause
-- **Stars**: 10974 · **Forks**: 1836 · **Open issues**: 4162 · **Contributors**: 147
+- **Stars**: 10976 · **Forks**: 1836 · **Open issues**: 4162 · **Contributors**: 147
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/triton-inference-server> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:42:58Z._
+_Last regenerated: 2026-09-09T18:50:47Z._
