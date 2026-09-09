@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.72.0"
   latestRelease: "v2.72.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:41:18Z
+  collectedAt: 2026-09-09T18:47:59Z
 timeline:
   created: 2018-10-04
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 10974
+  star: 10976
   watcher: 146
   fork: 1836
   release: 94
@@ -89,7 +89,7 @@ total:
   commit: 3851
 ---
 path: /home/runner/.x-repo/github.com/NVIDIA/triton-inference-server
-collectedAt: 2026-09-09T04:41:24Z
+collectedAt: 2026-09-09T18:48:13Z
 loc:
   Python:
     code: 77010
@@ -209,7 +209,7 @@ total:
 ---
 
 ---
-  - tritonserver
   - triton_python_backend_stub
-  - onnxruntime_perf_test
   - onnx_test_runner
+  - onnxruntime_perf_test
+  - tritonserver
