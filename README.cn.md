@@ -4,7 +4,7 @@
 
 The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
 
-![triton-inference-server](https://repo.x-cmd.io/triton-inference-server.svg)
+![triton-inference-server](https://repo.x-cmd.io/triton-inference-server.svg?lang=zh)
 
 ## 安装
 
@@ -23,15 +23,24 @@ x install triton-inference-server
 - **最新版本**: `v2.72.0` (2026-08-31)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-08-31T19:07:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 958.6 MiB | `native/linux/arm64` |
+| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 988.9 MiB | `native/linux/x64` |
+| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 405.9 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 429.6 MiB | `native/linux/x64` |
+| [v2.72.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/v2.72.0_ubuntu2404.clients.tar.gz) | 212.2 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 10,977 · **Fork**: 1,836 · **开放 issue**: 4,162 · **贡献者**: 147
+- **Star**: 10,978 · **Fork**: 1,836 · **开放 issue**: 4,162 · **贡献者**: 147
 
 ## 累计统计
 
-- **发布数**: 94 · **已合并 PR**: 4022 · **开放 PR**: 116 · **已关闭 issue**: 3384 · **开放 issue**: 778 · **提交数**: 3851
+- **发布数**: 94 · **已合并 PR**: 4022 · **开放 PR**: 117 · **已关闭 issue**: 3384 · **开放 issue**: 778 · **提交数**: 3851
 
 ## 最近活动
 
@@ -62,4 +71,4 @@ triton-inference-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:45:01Z._

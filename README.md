@@ -23,15 +23,24 @@ x install triton-inference-server
 - **Latest**: `v2.72.0` (2026-08-31)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 5
-- **Published**: 2026-08-31T19:07:38Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 958.6 MiB | `native/linux/arm64` |
+| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 988.9 MiB | `native/linux/x64` |
+| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 405.9 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 429.6 MiB | `native/linux/x64` |
+| [v2.72.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/v2.72.0_ubuntu2404.clients.tar.gz) | 212.2 MiB | `native/unknown` |
 
 ## Popularity
 
-- **Stars**: 10,977 · **Forks**: 1,836 · **Open issues**: 4,162 · **Contributors**: 147
+- **Stars**: 10,978 · **Forks**: 1,836 · **Open issues**: 4,162 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 4022 · **Open PRs**: 116 · **Closed issues**: 3384 · **Open issues**: 778 · **Commits**: 3851
+- **Releases**: 94 · **Merged PRs**: 4022 · **Open PRs**: 117 · **Closed issues**: 3384 · **Open issues**: 778 · **Commits**: 3851
 
 ## Recent activity
 
@@ -58,8 +67,8 @@ Total: **141,135** lines of code across **670** files in the top 5 languages.
 Install metadata for triton-inference-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `triton-inference-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/triton-inference-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/triton-inference-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:00Z._
