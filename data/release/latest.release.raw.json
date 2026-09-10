@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1005207168,
       "digest": "sha256:ff03569c93f862542a960d546dd26c5f74f19cd304930735999c05d8de9fc892",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-08-29T01:03:04Z",
       "updated_at": "2026-08-29T01:07:49Z",
       "browser_download_url": "https://github.com/triton-inference-server/server/releases/download/v2.72.0/tritonserver-2.72.0%2Bnv26.08-cu134-cp312-manylinux_2_34-aarch64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1036952051,
       "digest": "sha256:739b8af238380bea9202119cbab3b657649400ed2df7f07f358f41c786b46e0d",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-08-29T00:58:19Z",
       "updated_at": "2026-08-29T01:03:04Z",
       "browser_download_url": "https://github.com/triton-inference-server/server/releases/download/v2.72.0/tritonserver-2.72.0%2Bnv26.08-cu134-cp312-manylinux_2_34-x86_64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 222549254,
       "digest": "sha256:cbf4ca6a9ec64b1ecbbc194471384ee423312bd4c1722ac8e54395a6c1a86954",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-29T01:11:58Z",
       "updated_at": "2026-08-29T01:12:58Z",
       "browser_download_url": "https://github.com/triton-inference-server/server/releases/download/v2.72.0/v2.72.0_ubuntu2404.clients.tar.gz"
