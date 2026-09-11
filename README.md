@@ -33,7 +33,7 @@ Total: **141,135** lines of code across **670** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.72.0` (2026-08-31)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 5
 
 ## Popularity
@@ -42,7 +42,7 @@ Total: **141,135** lines of code across **670** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 4022 · **Open PRs**: 117 · **Closed issues**: 3384 · **Open issues**: 778 · **Commits**: 3851
+- **Releases**: 94 · **Merged PRs**: 4024 · **Open PRs**: 117 · **Closed issues**: 3384 · **Open issues**: 778 · **Commits**: 3852
 
 ## Recent activity
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:41:56Z._

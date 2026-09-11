@@ -33,7 +33,7 @@ x install triton-inference-server
 ## 发布
 
 - **最新版本**: `v2.72.0` (2026-08-31)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -42,7 +42,7 @@ x install triton-inference-server
 
 ## 累计统计
 
-- **发布数**: 94 · **已合并 PR**: 4022 · **开放 PR**: 117 · **已关闭 issue**: 3384 · **开放 issue**: 778 · **提交数**: 3851
+- **发布数**: 94 · **已合并 PR**: 4024 · **开放 PR**: 117 · **已关闭 issue**: 3384 · **开放 issue**: 778 · **提交数**: 3852
 
 ## 最近活动
 
@@ -74,4 +74,4 @@ triton-inference-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T00:15:05Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T04:41:57Z._
