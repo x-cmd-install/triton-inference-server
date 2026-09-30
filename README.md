@@ -38,22 +38,22 @@ Total: **141,575** lines of code across **672** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,021 · **Forks**: 1,843 · **Open issues**: 4,166 · **Contributors**: 147
+- **Stars**: 11,023 · **Forks**: 1,844 · **Open issues**: 4,167 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 4037 · **Open PRs**: 117 · **Closed issues**: 3387 · **Open issues**: 779 · **Commits**: 3861
+- **Releases**: 94 · **Merged PRs**: 4037 · **Open PRs**: 117 · **Closed issues**: 3388 · **Open issues**: 779 · **Commits**: 3861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-09 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:48:22Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:37:13Z._
