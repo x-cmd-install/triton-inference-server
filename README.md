@@ -32,38 +32,38 @@ Total: **141,575** lines of code across **672** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.72.0` (2026-08-31)
+- **Latest**: `v2.73.0` (2026-09-30)
 - **Last commit**: 2026-09-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,023 · **Forks**: 1,844 · **Open issues**: 4,167 · **Contributors**: 147
+- **Stars**: 11,031 · **Forks**: 1,846 · **Open issues**: 4,167 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 4037 · **Open PRs**: 117 · **Closed issues**: 3388 · **Open issues**: 779 · **Commits**: 3861
+- **Releases**: 95 · **Merged PRs**: 4037 · **Open PRs**: 117 · **Closed issues**: 3388 · **Open issues**: 779 · **Commits**: 3861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-11 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 958.6 MiB | `native/linux/arm64` |
-| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 988.9 MiB | `native/linux/x64` |
-| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 405.9 MiB | `native/linux/arm64` |
-| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 429.6 MiB | `native/linux/x64` |
-| [v2.72.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/v2.72.0_ubuntu2404.clients.tar.gz) | 212.2 MiB | `native/unknown` |
+| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
+| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
+| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 410.8 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 436.5 MiB | `native/linux/x64` |
+| [v2.73.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/v2.73.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:37:13Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:54:13Z._

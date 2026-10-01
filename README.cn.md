@@ -32,38 +32,38 @@ x install triton-inference-server
 
 ## 发布
 
-- **最新版本**: `v2.72.0` (2026-08-31)
+- **最新版本**: `v2.73.0` (2026-09-30)
 - **最近提交**: 2026-09-22
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 11,023 · **Fork**: 1,844 · **开放 issue**: 4,167 · **贡献者**: 147
+- **Star**: 11,031 · **Fork**: 1,846 · **开放 issue**: 4,167 · **贡献者**: 147
 
 ## 累计统计
 
-- **发布数**: 94 · **已合并 PR**: 4037 · **开放 PR**: 117 · **已关闭 issue**: 3388 · **开放 issue**: 779 · **提交数**: 3861
+- **发布数**: 95 · **已合并 PR**: 4037 · **开放 PR**: 117 · **已关闭 issue**: 3388 · **开放 issue**: 779 · **提交数**: 3861
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-03 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-05 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-10 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-04 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-06 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-11 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 958.6 MiB | `native/linux/arm64` |
-| [tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 988.9 MiB | `native/linux/x64` |
-| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-aarch64.zip) | 405.9 MiB | `native/linux/arm64` |
-| [tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/tritonserver_sdk-2.72.0+nv26.08-cu134-cp312-manylinux_2_34-x86_64.zip) | 429.6 MiB | `native/linux/x64` |
-| [v2.72.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.72.0/v2.72.0_ubuntu2404.clients.tar.gz) | 212.2 MiB | `native/unknown` |
+| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
+| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
+| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 410.8 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 436.5 MiB | `native/linux/x64` |
+| [v2.73.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/v2.73.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ triton-inference-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:37:14Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:54:13Z._
