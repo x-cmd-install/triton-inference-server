@@ -14,14 +14,14 @@ x install triton-inference-server
 
 ## Code insight
 
-Total: **142,043** lines of code across **680** files in the top 5 languages.
+Total: **142,050** lines of code across **681** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 77,556 | 16,812 | 12,082 | 412 |
 | Sh | 27,681 | 7,168 | 5,436 | 183 |
 | Cpp | 22,172 | 2,999 | 3,050 | 32 |
-| Json | 4,011 | 0 | 4 | 34 |
+| Json | 4,018 | 0 | 4 | 35 |
 | CHeader | 3,622 | 1,368 | 672 | 19 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **142,043** lines of code across **680** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.73.0` (2026-09-30)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,058 · **Forks**: 1,850 · **Open issues**: 4,170 · **Contributors**: 149
+- **Stars**: 11,062 · **Forks**: 1,853 · **Open issues**: 4,170 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 4047 · **Open PRs**: 120 · **Closed issues**: 3393 · **Open issues**: 777 · **Commits**: 3871
+- **Releases**: 95 · **Merged PRs**: 4052 · **Open PRs**: 120 · **Closed issues**: 3394 · **Open issues**: 776 · **Commits**: 3874
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-10 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-11 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-12 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-14 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-19 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-10 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:13:35Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:50:32Z._
