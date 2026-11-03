@@ -14,13 +14,13 @@ x install triton-inference-server
 
 ## 代码洞察
 
-合计: **142,235** 行代码（覆盖前 5 种语言、共 **682** 个文件）。
+合计: **142,789** 行代码（覆盖前 5 种语言、共 **685** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 77,614 | 16,859 | 12,101 | 413 |
-| Sh | 27,792 | 7,183 | 5,448 | 183 |
-| Cpp | 22,184 | 3,002 | 3,051 | 32 |
+| Python | 77,753 | 16,886 | 12,121 | 414 |
+| Sh | 27,968 | 7,225 | 5,471 | 184 |
+| Cpp | 22,423 | 3,034 | 3,070 | 33 |
 | Json | 4,018 | 0 | 4 | 35 |
 | CHeader | 3,626 | 1,377 | 674 | 19 |
 
@@ -32,38 +32,38 @@ x install triton-inference-server
 
 ## 发布
 
-- **最新版本**: `v2.73.0` (2026-09-30)
-- **最近提交**: 2026-10-28
+- **最新版本**: `v2.74.0` (2026-11-02)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 11,122 · **Fork**: 1,864 · **开放 issue**: 4,178 · **贡献者**: 150
+- **Star**: 11,127 · **Fork**: 1,867 · **开放 issue**: 4,178 · **贡献者**: 151
 
 ## 累计统计
 
-- **发布数**: 95 · **已合并 PR**: 4074 · **开放 PR**: 123 · **已关闭 issue**: 3398 · **开放 issue**: 780 · **提交数**: 3888
+- **发布数**: 96 · **已合并 PR**: 4077 · **开放 PR**: 123 · **已关闭 issue**: 3399 · **开放 issue**: 779 · **提交数**: 3891
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-12 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-04 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-13 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
-| [tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
-| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-aarch64.zip) | 410.8 MiB | `native/linux/arm64` |
-| [tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/tritonserver_sdk-2.73.0+nv26.09-cu132-cp312-manylinux_2_34-x86_64.zip) | 436.5 MiB | `native/linux/x64` |
-| [v2.73.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.73.0/v2.73.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
+| [tritonserver-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
+| [tritonserver-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
+| [tritonserver_sdk-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver_sdk-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-aarch64.zip) | 410.9 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver_sdk-2.74.0+nv26.10-77056645-cu132-cp312-manylinux_2_34-x86_64.zip) | 436.6 MiB | `native/linux/x64` |
+| [v2.74.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/v2.74.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ triton-inference-server 的安装元数据由 [x-cmd/install](https://github.com
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:06:00Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T06:55:05Z._
