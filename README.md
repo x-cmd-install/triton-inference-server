@@ -19,7 +19,7 @@ Total: **142,801** lines of code across **685** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 77,766 | 16,882 | 12,115 | 414 |
-| Sh | 27,967 | 7,225 | 5,471 | 184 |
+| Sh | 27,967 | 7,226 | 5,471 | 184 |
 | Cpp | 22,423 | 3,034 | 3,070 | 33 |
 | Json | 4,018 | 0 | 4 | 35 |
 | CHeader | 3,626 | 1,377 | 674 | 19 |
@@ -33,27 +33,27 @@ Total: **142,801** lines of code across **685** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.74.0` (2026-11-02)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,135 · **Forks**: 1,867 · **Open issues**: 4,181 · **Contributors**: 151
+- **Stars**: 11,136 · **Forks**: 1,868 · **Open issues**: 4,181 · **Contributors**: 151
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 4084 · **Open PRs**: 133 · **Closed issues**: 3402 · **Open issues**: 779 · **Commits**: 3895
+- **Releases**: 96 · **Merged PRs**: 4085 · **Open PRs**: 132 · **Closed issues**: 3402 · **Open issues**: 779 · **Commits**: 3896
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:16:21Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:21:28Z._
