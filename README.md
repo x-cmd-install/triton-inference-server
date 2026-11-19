@@ -14,14 +14,14 @@ x install triton-inference-server
 
 ## Code insight
 
-Total: **142,801** lines of code across **685** files in the top 5 languages.
+Total: **143,188** lines of code across **689** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 77,766 | 16,882 | 12,115 | 414 |
-| Sh | 27,967 | 7,226 | 5,471 | 184 |
+| Python | 78,062 | 16,962 | 12,165 | 416 |
+| Sh | 28,025 | 7,233 | 5,477 | 184 |
 | Cpp | 22,423 | 3,034 | 3,070 | 33 |
-| Json | 4,018 | 0 | 4 | 35 |
+| Json | 4,050 | 0 | 4 | 37 |
 | CHeader | 3,626 | 1,377 | 674 | 19 |
 
 ## Source
@@ -32,38 +32,38 @@ Total: **142,801** lines of code across **685** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.74.0` (2026-11-02)
-- **Last commit**: 2026-11-16
+- **Latest**: `v2.75.0` (2026-11-17)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 11,143 · **Forks**: 1,873 · **Open issues**: 4,181 · **Contributors**: 151
+- **Stars**: 11,154 · **Forks**: 1,874 · **Open issues**: 4,182 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 4089 · **Open PRs**: 133 · **Closed issues**: 3407 · **Open issues**: 774 · **Commits**: 3899
+- **Releases**: 97 · **Merged PRs**: 4094 · **Open PRs**: 129 · **Closed issues**: 3407 · **Open issues**: 775 · **Commits**: 3904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tritonserver-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
-| [tritonserver-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
-| [tritonserver_sdk-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver_sdk-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-aarch64.zip) | 410.9 MiB | `native/linux/arm64` |
-| [tritonserver_sdk-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/tritonserver_sdk-2.74.0+nv26.10-cu132-cp312-manylinux_2_34-x86_64.zip) | 436.6 MiB | `native/linux/x64` |
-| [v2.74.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.74.0/v2.74.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
+| [tritonserver-2.75.0+nv26.11-cu135-cp312-manylinux_2_34-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.75.0/tritonserver-2.75.0+nv26.11-cu135-cp312-manylinux_2_34-aarch64.zip) | 1.0 GiB | `native/linux/arm64` |
+| [tritonserver-2.75.0+nv26.11-cu135-cp312-manylinux_2_34-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.75.0/tritonserver-2.75.0+nv26.11-cu135-cp312-manylinux_2_34-x86_64.zip) | 1.0 GiB | `native/linux/x64` |
+| [tritonserver_sdk-2.75.0+nv26.11-cu135-cp312-manylinux_2_28-aarch64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.75.0/tritonserver_sdk-2.75.0+nv26.11-cu135-cp312-manylinux_2_28-aarch64.zip) | 411.0 MiB | `native/linux/arm64` |
+| [tritonserver_sdk-2.75.0+nv26.11-cu135-cp312-manylinux_2_28-x86_64.zip](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.75.0/tritonserver_sdk-2.75.0+nv26.11-cu135-cp312-manylinux_2_28-x86_64.zip) | 436.7 MiB | `native/linux/x64` |
+| [v2.75.0_ubuntu2404.clients.tar.gz](https://github.com/NVIDIA/triton-inference-server/releases/download/v2.75.0/v2.75.0_ubuntu2404.clients.tar.gz) | 216.3 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for triton-inference-server lives in the [x-cmd/install](https:
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:31:03Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:06:00Z._
